@@ -3,6 +3,6 @@
         "username": "adamkovari"
     },
     "record": {
-        "RECORDTYPE": ["CNAME", "A", "AAAA"]
+        "CNAME": "adamkovari.github.io"
     }
 }
